@@ -11,3 +11,8 @@ Installs dependancies for macOS.
 2. Open terminal and give privellages to execute using "chmod a+x <file path here>"
 3. Open the script.sh file using terminal
 4. MC Overveiwer will now install in the Documents/overviewer directory
+
+OR
+```
+wget https://raw.githubusercontent.com/NPCtom/mcoverviewer-build-script-macos/master/script.sh && chmod a+x script.sh && ./install.sh
+```
