@@ -14,5 +14,5 @@ Installs dependancies for macOS.
 
 OR
 ```
-wget https://raw.githubusercontent.com/NPCtom/mcoverviewer-build-script-macos/master/script.sh && chmod a+x script.sh && ./install.sh
+wget https://raw.githubusercontent.com/NPCtom/mcoverviewer-build-script-macos/master/script.sh && chmod a+x script.sh && ./script.sh
 ```
